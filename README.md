@@ -11,3 +11,7 @@ gcc ./main.c -lm -o main
 ```bash
 ./main boot.img
 ```
+#image
+<img src=image.png>
+
+wow it looks good(??)
